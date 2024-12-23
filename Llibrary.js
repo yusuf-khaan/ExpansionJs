@@ -105,7 +105,7 @@ class Library {
 
 const myLibrary = new Library();
 
-myLibrary.addBooks("JavaScript Basics", "John Doe", "1");
+myLibrary.addBooks("JavaScript", "Jake", "1");
 
 myLibrary.registerMembers("Bob", 30, 2, "Silver");
 
